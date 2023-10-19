@@ -1,0 +1,103 @@
+body {
+    background-image: url(https://media.domatron.com/media/1168/conversions/todo-app-b8s-jpg.jpg);
+    margin-top: 20vh;
+  background-position: center;
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  background-size: 750px;
+
+
+
+}
+
+
+#inputfield {
+    background-color: rgb(221, 217, 212);
+    border-radius: 25px;
+    /* border-top-color: wheat; */
+    /* border-bottom-color: black; */
+    font-size: 25px;
+    /* padding: 15px; */
+color: rgb(185, 57, 57);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 5px solid rgb(90, 97, 70);
+    border-top: 5px solid rgb(27, 9, 9);
+    border-left: 5px solid wheat;
+    border-right: 5px solid rgb(29, 29, 20);
+
+}
+
+
+
+
+
+
+
+button {
+    color: white;
+    background-color: rgb(155, 132, 89);
+    border-radius: 25px;
+    cursor: pointer;
+    /* border-color: rgb(73, 90, 41); */
+    /* border-top-color:  wheat; */
+    /* border-left-color: red; */
+    font-size: 25px;
+    /* border: 25px; */
+/* padding-right: 4px; */
+border-top: 5px solid rgb(172, 162, 23);
+border-bottom: 5px solid black;
+border-left: 5px solid rgb(128, 82, 15);
+border-right: 5px solid rgb(223, 192, 16);
+
+
+
+
+
+
+}
+
+
+
+#list{
+    color: rgb(17, 13, 13);
+    font-size: 25px;
+    /* padding: 30px; */
+
+}
+
+
+.lk{
+    color: rgb(227, 231, 221);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+font-size: 15vh;
+
+
+    /* border: solid 3px; */
+    /* padding: 0; */
+    /* margin: 0; */
+}
+
+.lk:hover{
+    color: rgb(145, 127, 49);
+    
+}
+
+
+button:hover{
+    background-color: rgb(195, 211, 57);
+    color: red;
+
+}
+
+
+
+
+
+
+
+
+#inputfield:hover{
+    background-color: rgb(171, 175, 156);
+    color: black;
+}
